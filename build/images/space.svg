@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1229px" viewBox="0 0 1440 1229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="69.5444755%" y1="41.3304738%" x2="50%" y2="0.56900289%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.463579299" offset="85.1427023%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="32.7987688%" x2="50%" y2="6.91731715%" id="linearGradient-2">
+            <stop stop-color="#6270CB" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#333D9C" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" fill-rule="nonzero">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.075265067" x="0" y="0" width="1440" height="2229"></rect>
+            <path d="M-3.41060513e-13,544 C312.673921,194.11516 785.420973,53.7694971 1418.24116,122.963013 C1423.18214,123.503268 1430.43509,124.391402 1440,125.627414 L1440,0 L-3.41060513e-13,0 L-3.41060513e-13,544 Z" id="Path-3" fill="url(#linearGradient-2)" opacity="0.500186012"></path>
+        </g>
+    </g>
+</svg>
