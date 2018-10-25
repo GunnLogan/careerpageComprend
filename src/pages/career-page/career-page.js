@@ -10,7 +10,7 @@ class CareerPage extends React.Component {
   <div className="careerPageContainer">
     <div className="heroImage"><img src="/images/heroImage.svg" /></div>
       <div className="hero-text">
-        <img src="/images/joinUs!.svg" />
+        <img src="/images/joinUs!.png" />
         <Link to="/jobs">
         <p>Your journey starts here!</p>
       </Link>
