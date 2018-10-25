@@ -8,9 +8,9 @@ class CareerPage extends React.Component {
     return (
 
   <div className="careerPageContainer">
-    <div className="heroImage"><img src="/images/heroImage.svg" /></div>
+    <div className="heroImage"><img src={"/images/heroImage.svg"} /></div>
       <div className="hero-text">
-        <img src="/images/joinUs!.png" />
+        <img src={"/images/joinUs!.png"} />
         <Link to="/jobs">
         <p>Your journey starts here!</p>
       </Link>
